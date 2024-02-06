@@ -1,5 +1,5 @@
 {
-  "name": "react-shop-app",
+  "name": "next-coupang-app",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,11 +9,26 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emailjs/browser": "^3.11.0",
+    "@reduxjs/toolkit": "^2.0.1",
+    "@tosspayments/payment-sdk": "^1.7.0",
+    "classnames": "^2.3.2",
+    "dayjs": "^1.11.10",
+    "firebase": "^10.7.1",
+    "next": "14.0.4",
+    "notiflix": "^3.2.6",
     "react": "^18",
+    "react-chartjs-2": "^5.2.0",
     "react-dom": "^18",
-    "next": "14.0.4"
+    "react-icons": "^5.0.1",
+    "react-loader-spinner": "^6.1.0",
+    "react-redux": "^9.0.4",
+    "react-simple-star-rating": "^5.1.7",
+    "react-toastify": "^9.1.3",
+    "sass": "^1.69.5"
   },
   "devDependencies": {
+    "@types/react": "18.2.51",
     "eslint": "^8",
     "eslint-config-next": "14.0.4"
   }
