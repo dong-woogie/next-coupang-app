@@ -12,7 +12,7 @@ import LogoPath from "@/assets/colorful.svg";
 import { toast } from "react-toastify";
 import { createUserWithEmailAndPassword } from "firebase/auth";
 import { auth } from "@/firebase/firebase";
-import Input from "@/components/Input/Input";
+import Input from "@/components/input/Input";
 
 const RegisterClient = () => {
   const [email, setEmail] = useState("");

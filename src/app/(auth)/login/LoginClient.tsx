@@ -18,7 +18,7 @@ import {
   signInWithPopup,
 } from "firebase/auth";
 import { auth } from "@/firebase/firebase";
-import Input from "@/components/Input/Input";
+import Input from "@/components/input/Input";
 
 const LoginClient = () => {
   const [email, setEmail] = useState("");
