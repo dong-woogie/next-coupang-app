@@ -4,16 +4,16 @@
   --dark-blue: #0a1930;
   --light-blue: #1f93ff;
 
-  --light-gray: #e7e7e7;
+  --light-gray: #E7E7E7;
   --dark-gray: #767676;
-  --border-gray: #cccccc;
-  --table-border-gray: #eee;
+  --border-gray: #CCCCCC;
+  --table-border-gray: #EEE;
 
-  --color-white: #fff;
+  --color-white: #FFFFFF;
   --color-primary: #0074e9;
 
   --color-black: #111111;
-  --color-red: #e52528;
+  --color-red: #E52528;
 
   --box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);
 }
